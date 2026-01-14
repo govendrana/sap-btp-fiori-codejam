@@ -20,7 +20,7 @@ This section explains how to create a new SAP Fiori application using SAP Busine
    <img width="1287" height="174" alt="image" src="https://github.com/user-attachments/assets/e1b71cf0-feae-4796-9531-12327f348f2e" />
    **API EndPoint: Under Cloud Foundry Environment section in trail account**
    <img width="1275" height="63" alt="image" src="https://github.com/user-attachments/assets/2a00b102-c435-443a-a217-21dce6314e93" />
-   **Provide the temporary Authentication Code to login**
+   **Provide the temporary Authentication Code to login - Open it in your browser, log in with your SAP credentials, and copy the passcode back into the terminal**
    <img width="1302" height="285" alt="image" src="https://github.com/user-attachments/assets/6d573efd-a156-48e5-8216-b2a11fb04e15" />
 
 
