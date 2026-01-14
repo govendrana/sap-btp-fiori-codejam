@@ -45,7 +45,7 @@ This section explains how to create a new SAP Fiori application using SAP Busine
    <img width="1056" height="189" alt="image" src="https://github.com/user-attachments/assets/4006e22f-8833-4748-8bfa-48f322191d52" />
 
 ## **Step 3.4: Fiori tools activity**
-## **Step 3.4.1: Gloabl WORK IN PROGRESS **
-## **Step 3.4.1: Travel List Page <WORK IN PROGRESS> **
+## **Step 3.4.1: Gloabl -- WORK IN PROGRESS **
+## **Step 3.4.1: Travel List Page -- WORK IN PROGRESS **
 
 
