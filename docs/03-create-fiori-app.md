@@ -3,7 +3,7 @@
 This section explains how to create a new SAP Fiori application using SAP Business Application Studio.
 
 ## **Step 3.1: Open SAP Business Application Studio**
-1. Log in to [SAP BTP Cockpit](https://cockpit.hanatrial.ondstances and Subscriptions**.
+1. Log in to [SAP BTP Cockpit](https://cockpit.hanatrial.ondemand.com/trial/ and Subscriptions**.
 3. Open **SAP Business Application Studio**.
 
 ![Open BAS](../
