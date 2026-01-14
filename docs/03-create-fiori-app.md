@@ -7,10 +7,10 @@ This section explains how to create a new SAP Fiori application using SAP Busine
 2. Open **SAP Business Application Studio** from Instances and Subscriptions
 
 ## **Step 3.2: Create a New Dev Space**
-1. Click **Click on Create a New Dev Space**.
+1. **Click on Create a New Dev Space**.
    <img width="1910" height="948" alt="image" src="https://github.com/user-attachments/assets/dffcdc0a-181c-4d3f-bd8d-e53e3f0cc1d9" />
 
-3. Select **SAP Fiori Application** from the list of templates.
+2. Select **SAP Fiori Application** from the list of templates.
 4. Click **Next**.
 5. 
 ## **Step 3.2: Create a New Project**
