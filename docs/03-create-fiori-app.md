@@ -38,4 +38,6 @@ This section explains how to create a new SAP Fiori application using SAP Busine
 ## **Step 3.3: Back up to Local Machine
 1. webapp > annotations > `annotation.xml`
 2. webapp > `manifest.json`
+   <img width="1056" height="189" alt="image" src="https://github.com/user-attachments/assets/4006e22f-8833-4748-8bfa-48f322191d52" />
+
 
