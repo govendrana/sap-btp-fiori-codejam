@@ -23,9 +23,8 @@ This section explains how to create a new SAP Fiori application using SAP Busine
    **Provide the temporary Authentication Code to login - Open it in your browser, log in with your SAP credentials, and copy the passcode back into the terminal**
    <img width="1302" height="285" alt="image" src="https://github.com/user-attachments/assets/6d573efd-a156-48e5-8216-b2a11fb04e15" />
 
-
-
 ## **Step 3.2: Generate application `z.trvl.ui.00` (Manage Travel) using OData `/DMO/UI_TRAVEL_D_D_O4`**
+
 
 ## **Step 3.3: Generate application `z.trvl.ui.00` (Manage Travel) using OData `/DMO/UI_TRAVEL_D_D_O4`**
 1. webapp > annotations > `annotation.xml`
