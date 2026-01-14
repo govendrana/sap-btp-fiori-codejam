@@ -47,5 +47,5 @@ This section explains how to create a new SAP Fiori application using SAP Busine
 ## **Step 3.4: Fiori tools activity**
 ## **Step 3.4.1: Gloabl -- WORK IN PROGRESS**
 ## **Step 3.4.1: Travel List Page -- WORK IN PROGRESS**
-## **Step 3.5: Commit changes to GitHub**
+## **Step 3.5: Commit changes to GitHub -- WORK IN PROGRESS**
 
