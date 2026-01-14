@@ -34,7 +34,11 @@ This section explains how to create a new SAP Fiori application using SAP Busine
    <img width="1602" height="897" alt="image" src="https://github.com/user-attachments/assets/fbcb07ce-b27a-4bee-b1a0-6a6aca88ebc1" />
 5. **Open the folder /home/user/projects/ to open the application z.manage.travel.00**
    <img width="1862" height="906" alt="image" src="https://github.com/user-attachments/assets/70e6df4a-1db9-4b97-a554-e6e82804c9fb" />
-
+6. **Preview Application: Application Info->Preview Application->Select start-noflp**
+   <img width="1571" height="912" alt="image" src="https://github.com/user-attachments/assets/28d5c0e5-3425-4b4e-96f9-2d18670b5b9e" />
+7. **Click localhost after server started http://localhost:8082. Then click on Index to launch Application**
+   <img width="1911" height="987" alt="image" src="https://github.com/user-attachments/assets/3520d56e-1cf9-4d7e-bf55-a03d43ac8a7f" />
+   
 ## **Step 3.3: Back up to Local Machine
 1. webapp > annotations > `annotation.xml`
 2. webapp > `manifest.json`
