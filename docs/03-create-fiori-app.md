@@ -24,6 +24,13 @@ This section explains how to create a new SAP Fiori application using SAP Busine
    <img width="1302" height="285" alt="image" src="https://github.com/user-attachments/assets/6d573efd-a156-48e5-8216-b2a11fb04e15" />
 
 ## **Step 3.2: Generate application `z.trvl.ui.00` (Manage Travel) using OData `/DMO/UI_TRAVEL_D_D_O4`**
+1. **File->New Project from Template->SAP FIORI Generator->Select List Report Page**
+   <img width="1556" height="891" alt="image" src="https://github.com/user-attachments/assets/43ba2caa-bd83-42c1-b56a-aa7e8ea3e4a1" />
+2. **Connect to the System and Select the service /DMO/UI_TRAVEL_D_D_O4
+   <img width="1572" height="885" alt="image" src="https://github.com/user-attachments/assets/cd7eea3b-897c-404b-bd58-6ebd7f7f4d0a" />
+3. **Select Main Entry as Travel and Navigation Entry as _Booking**
+   <img width="1572" height="891" alt="image" src="https://github.com/user-attachments/assets/025f1f86-266e-418f-b9f0-42c47d48bc0c" />
+
 
 
 ## **Step 3.3: Generate application `z.trvl.ui.00` (Manage Travel) using OData `/DMO/UI_TRAVEL_D_D_O4`**
