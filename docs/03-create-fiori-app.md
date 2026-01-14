@@ -39,13 +39,13 @@ This section explains how to create a new SAP Fiori application using SAP Busine
 7. **Click localhost after server started http://localhost:8082. Then click on Index to launch Application**
    <img width="1911" height="987" alt="image" src="https://github.com/user-attachments/assets/3520d56e-1cf9-4d7e-bf55-a03d43ac8a7f" />
    
-## **Step 3.3: Back up to Local Machine
+## **Step 3.3: Back up to Local Machine**
 1. webapp > annotations > `annotation.xml`
 2. webapp > `manifest.json`
    <img width="1056" height="189" alt="image" src="https://github.com/user-attachments/assets/4006e22f-8833-4748-8bfa-48f322191d52" />
 
 ## **Step 3.4: Fiori tools activity**
-## **Step 3.4.1: Gloabl -- WORK IN PROGRESS **
-## **Step 3.4.1: Travel List Page -- WORK IN PROGRESS **
+## **Step 3.4.1: Gloabl -- WORK IN PROGRESS**
+## **Step 3.4.1: Travel List Page -- WORK IN PROGRESS**
 
 
