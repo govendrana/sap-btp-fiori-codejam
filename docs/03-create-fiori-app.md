@@ -35,10 +35,7 @@ This section explains how to create a new SAP Fiori application using SAP Busine
 5. **Open the folder /home/user/projects/ to open the application z.manage.travel.00**
    <img width="1862" height="906" alt="image" src="https://github.com/user-attachments/assets/70e6df4a-1db9-4b97-a554-e6e82804c9fb" />
 
-
-
-
-## **Step 3.3: Generate application `z.trvl.ui.00` (Manage Travel) using OData `/DMO/UI_TRAVEL_D_D_O4`**
+## **Step 3.3: Back up to Local Machine
 1. webapp > annotations > `annotation.xml`
 2. webapp > `manifest.json`
 
