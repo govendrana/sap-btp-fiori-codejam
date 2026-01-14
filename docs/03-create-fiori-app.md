@@ -6,7 +6,7 @@ This section explains how to create a new SAP Fiori application using SAP Busine
 1. Log in to [SAP BTP Cockpit](https://cockpit.hanatrial.ondemand.com/trial/ and Subscriptions**.
 3. Open **SAP Business Application Studio**.
 
-![Open BAS](../
+![Open BAS](../ 
 ## **Step 3.2: Create a New Project**
 1. Click **Create Project from Template**.
 2. Select **SAP Fiori Application** from the list of templates.
