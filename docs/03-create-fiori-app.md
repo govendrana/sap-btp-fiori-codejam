@@ -30,8 +30,10 @@ This section explains how to create a new SAP Fiori application using SAP Busine
    <img width="1572" height="885" alt="image" src="https://github.com/user-attachments/assets/cd7eea3b-897c-404b-bd58-6ebd7f7f4d0a" />
 3. **Select Main Entry as Travel and Navigation Entry as _Booking**
    <img width="1572" height="891" alt="image" src="https://github.com/user-attachments/assets/025f1f86-266e-418f-b9f0-42c47d48bc0c" />
-4. **Provide the Application Details**
+4. **Provide the Application Details and Generate it**
    <img width="1602" height="897" alt="image" src="https://github.com/user-attachments/assets/fbcb07ce-b27a-4bee-b1a0-6a6aca88ebc1" />
+5. **Open the folder /home/user/projects/ to open the application z.manage.travel.00**
+   <img width="1862" height="906" alt="image" src="https://github.com/user-attachments/assets/70e6df4a-1db9-4b97-a554-e6e82804c9fb" />
 
 
 
