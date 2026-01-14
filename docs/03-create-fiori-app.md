@@ -16,33 +16,5 @@ This section explains how to create a new SAP Fiori application using SAP Busine
    <img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/a34c95c5-139a-45ae-b4b6-bc38b1364ff9" />
 4. **Login to Sub Account**
 
+## **Step 3.2: Generate application `z.trvl.ui.00` (Manage Travel) using OData `/DMO/UI_TRAVEL_D_D_O4`**
 
-## **Step 3.2: Create a New Project**
-1. Click **Create Project from Template**.
-2. Select **SAP Fiori Application** from the list of templates.
-3. Click **Next**.
-
-!Create Project
-
----
-
-## **Step 3.3: Configure Project Details**
-1. Enter:
-   - **Project Name**: `MyFioriApp`
-   - **Namespace**: `com.mycompany`
-2. Click **Next**.
-
-![Configure Project](../images/configure-projectata Source**
-1. Choose **OData Service**.
-2. Enter the service URL (e.g., `https://services.odata.org/V2/Northwind/Northwind.svc`).
-3. Click **Next**.
-
-!Select Data Source
-
----
-
-## **Step 3.5: Choose UI Template**
-1. Select **List Report / Object Page**.
-2. Click **Finish** to generate the project.
-
-![Choose Template](../images/choose-template.png, open the project in the workspace and verify the generated files.
