@@ -11,10 +11,10 @@ This section explains how to create a new SAP Fiori application using SAP Busine
    <img width="1910" height="948" alt="image" src="https://github.com/user-attachments/assets/dffcdc0a-181c-4d3f-bd8d-e53e3f0cc1d9" />
 2. **Click on created Dev Space (e.g., myFioriSpace_0114 )**   
    <img width="1896" height="336" alt="image" src="https://github.com/user-attachments/assets/6d9f6d44-a523-4eb2-856a-ff69806d6a48" />
+3. Landing Page
+   <img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/a34c95c5-139a-45ae-b4b6-bc38b1364ff9" />
 
-2. Select **SAP Fiori Application** from the list of templates.
-4. Click **Next**.
-5. 
+
 ## **Step 3.2: Create a New Project**
 1. Click **Create Project from Template**.
 2. Select **SAP Fiori Application** from the list of templates.
