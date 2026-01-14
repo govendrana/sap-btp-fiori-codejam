@@ -18,3 +18,7 @@ This section explains how to create a new SAP Fiori application using SAP Busine
 
 ## **Step 3.2: Generate application `z.trvl.ui.00` (Manage Travel) using OData `/DMO/UI_TRAVEL_D_D_O4`**
 
+## **Step 3.3: Generate application `z.trvl.ui.00` (Manage Travel) using OData `/DMO/UI_TRAVEL_D_D_O4`**
+1. webapp > annotations > `annotation.xml`
+2. webapp > `manifest.json`
+
